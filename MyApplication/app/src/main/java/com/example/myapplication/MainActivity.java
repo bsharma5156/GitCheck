@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //change from text editor
+    //change from android studio
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
