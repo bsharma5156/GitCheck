@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     //change from text editor
     //change from android studio
+    //change from github
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
